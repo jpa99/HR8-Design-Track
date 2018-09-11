@@ -28,13 +28,13 @@ While you are by no means limited to these suggested apps,
 
 
 ## Frequently Asked Questions:
-Q: Does the app have to have background functionality?
-A: It does not! The user interface only needs to respond as intended to user input in a way that can be demonstrated to the judging panel.
+#### Does the app have to have background functionality?
+* It does not! The user interface only needs to respond as intended to user input in a way that can be demonstrated to the judging panel.
 
-Q: What do you define as “widely used”?
-A: In the eyes of our judges, “widely used” means that it would see use in a somewhat large group of people.  For example, Esther is not used across the globe, but Esther is very commonly used on Rice’s campus and serves an important purpose, so we would consider Esther widely used.  Apps like Spotify and Facebook are also obviously widely used.
+#### What do you define as “widely used”?
+* In the eyes of our judges, “widely used” means that it would see use in a somewhat large group of people.  For example, Esther is not used across the globe, but Esther is very commonly used on Rice’s campus and serves an important purpose, so we would consider Esther widely used.  Apps like Spotify and Facebook are also obviously widely used.
 
-Q: What languages or platforms can I use?
-A:  All languages and platforms are available to use; use whatever you are comfortable with.  Just make sure to use a language/platform that is easily presentable and looks professional.
+#### What languages or platforms can I use?
+* All languages and platforms are available to use; use whatever you are comfortable with.  Just make sure to use a language/platform that is easily presentable and looks professional.
 
 
